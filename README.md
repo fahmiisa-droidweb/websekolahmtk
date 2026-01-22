@@ -174,11 +174,11 @@
 		<tr>
                     <td>13 September- 22 September</td>
                     <td>Sijil Tinggi Agama (STA) 2026</td>
-            </table>
+          
 
             <!-- Butang Muat Turun PDF -->
             <a href="jadual.pdf" download class="download-btn">📥 Muat Turun Jadual Aktiviti (PDF)</a>
-        </section>
+    
 
         <section id="galeri">
             <h2>Galeri Aktiviti</h2>
